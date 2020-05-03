@@ -1,0 +1,93 @@
+@charset "UTF-8";
+.mainContent {
+	width: 85%;
+	margin: auto;
+}
+.Middle_center {
+	margin-left: 30%;
+}
+.roadMap {
+	width: 70%;
+	height: 320px;
+	border: 1px solid #e3e3e3;
+	border-radius: 2px;
+	box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+	float: left;
+	display: inline-block;
+}
+.best_seller {
+	width: 25%;
+	height: 320px;
+	border: 1px solid #e3e3e3;
+	border-radius: 2px;
+	box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+	float: left;
+	display: inline-block;
+	margin-left: 4.5%;
+}
+.best_title {
+	font-size: 1.2em;
+	font-weight: bold;
+	margin: 5% 0 0 5%;
+}
+.best_num {
+	width: 15%;
+	text-align: center;
+}
+.best_img {
+	width: 90px;
+}
+.best_booktitle {
+	padding-left: 5px;
+	padding-right: 5px;
+	vertical-align: top;
+}
+.best_table {
+	border-collapse: separate;
+	border-spacing: 5px 15px;
+}
+.Bestbtn {
+	display: inline-block;
+    padding: 1px 8px;
+    margin-left: 5px;
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(255,255,255,0.75);
+    vertical-align: middle;
+    cursor: context-menu;
+    background-color: #f5f5f5;
+    background-image: -moz-linear-gradient(top,#fff,#e6e6e6);
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#fff),to(#e6e6e6));
+    background-image: -webkit-linear-gradient(top,#fff,#e6e6e6);
+    background-image: -o-linear-gradient(top,#fff,#e6e6e6);
+    background-image: linear-gradient(to bottom,#fff,#e6e6e6);
+    background-repeat: repeat-x;
+    border: 1px solid #bbb;
+    border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+    border-bottom-color: #a2a2a2;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff',endColorstr='#ffe6e6e6',GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.05);
+    -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.05);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

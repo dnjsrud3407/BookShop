@@ -1,0 +1,20 @@
+@charset "UTF-8";
+.centerBtn {
+	text-align: center;
+}
+.h5Custom{
+	margin: 0 !important;
+	padding: 0;
+}
+.rmargin{
+	margin: 0 7px 0 0 !important;
+}
+.smargin{
+	margin: 0 130px 0 0 !important;
+}
+.bhidden{
+	border-top: hidden;
+}
+#addSearch {
+	margin-left: 5px;
+}
